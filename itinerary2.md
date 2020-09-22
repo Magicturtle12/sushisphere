@@ -5,19 +5,19 @@
 ### Dev funds returned and sushi buyback
  sept 14th - https://twitter.com/0xMaki/status/1305672497644417025?s=20 
 
-###sushiswap launched on defiprime+defipulse
+### sushiswap launched on defiprime+defipulse
 sept 15th -https://twitter.com/defiprime/status/1305897725179949056?s=21  
 
-###governance forum launched
+### governance forum launched
 sept 17th - http://forum.sushiswapclassic.org/ 
 
-###Chester Lacroix onboarded as a Bijutso for his design contributions
+### Chester Lacroix onboarded as a Bijutso for his design contributions
 https://www.notion.so/SushiSWAP-Brand-Marketing-Proposal-5f67f362bb19428091925a54b1f78e57 
 
-###sushi emission reduction proposal passed
+### sushi emission reduction proposal passed
 Option 2: ⅔ of SUSHI emissions are locked for 6 months, ⅓ unlocked; immediately take emissions down by 66%, and then apply the locked portion (including retroactively) once the code is ready; hard-cap supply at 250m - sept 19th - https://snapshot.page/#/sushi/proposal/Qme8MYH2nWR3qcecxnVU5F824VJ2LjeKKr5mNaVdQ7ZfcF 
 
-###New UI Preview
+### New UI Preview
 https://twitter.com/OmakaseBar/status/1307186980695035904
 
 ### UNI/ETH pool activated 
