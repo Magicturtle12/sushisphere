@@ -55,3 +55,4 @@ thoughts: This is a good step in the right direction, in my opinion these pools 
 
 ***
 
+Shout outs to Mr Bento and his Sushi Digest https://sushi.substack.com/
