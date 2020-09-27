@@ -1,4 +1,7 @@
 #  Episode 2 Outline
+## Sushinomics
+
+
 
 ## News and Development
 
@@ -59,10 +62,11 @@ Key takeaway from community discussion concerning hiring process
 
 ***
 ### Hardcap Discussion
+Leaning towards 
 
 ### Rotating sushi bar Discussion
 
-###
+
 
 ***
 
