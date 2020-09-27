@@ -12,16 +12,14 @@
 
 
 ### Bentobox Proposal passes with overwhelming approval
-https://snapshot.page/#/sushi/proposal/QmZTwyGgJb7k6RofLJW2hMy2yMaE2p2zyE6hGbdaWHmUUY
-
+https://medium.com/@boringcrypto/the-bentobox-lending-solution-1351606b9f5a
+-Isolated lending pairs. Anyone can create a pair
+-on-chain and off-chain Oracles
+-flash loans, providing extra revenue for suppliers.
 
 ### New UI https://sushiswap.fi
 
-### ________
-
-
-### ________
-
+### 
 
 
 * * *
@@ -30,7 +28,7 @@ https://snapshot.page/#/sushi/proposal/QmZTwyGgJb7k6RofLJW2hMy2yMaE2p2zyE6hGbdaW
 ### Moonbeam Proposal
 
 https://forum.sushiswapclassic.org/t/moonbeam-sushiswap-proposal/375/3 
-
+>As an example of how quickly a project can be ported to Moonbeam, the Uniswap V2 core contracts were deployed to the Moonbeam TestNet (Moonbase Alpha) with no changes whatsoever.
 
 ### Jiro0no + Omakase bar Team Proposal
 https://forum.sushiswapclassic.org/t/team-proposal-omakasebar-jiroono/399
