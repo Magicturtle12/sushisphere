@@ -27,6 +27,7 @@ full launch but it's being actively developed still
 
 
 ### Rotating sushibar launching within 48 hours
+https://snapshot.page/#/sushi/proposal/QmWQjtyfmJZ6CQEu2ULsAyTrLoBnHZr9Nw5y9wCcRRZUD3
 10 New pairs will be added to the staking menu, with a 0.2x multiplier to sushi rewards. This pool will rotate weekly based upon the communities choice. The purpose is to incentivise LP growth on the platform.
 
 ### New UI designs fresh out of the kitchen!
