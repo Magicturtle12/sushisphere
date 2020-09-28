@@ -10,10 +10,10 @@
 ## News and Development
 
 ### DeFiSafety updated score 19% -> 57%
-
+🙏
 
 ### Liquidity.vision adds support for Sushiswap
-
+__C-C-C-COMBO: 🙏x2 
 
 ### Bentobox Proposal passes with overwhelming approval
 https://medium.com/@boringcrypto/the-bentobox-lending-solution-1351606b9f5a
@@ -22,6 +22,8 @@ https://medium.com/@boringcrypto/the-bentobox-lending-solution-1351606b9f5a
 -flash loans, providing extra revenue for suppliers.
 
 ### New UI https://sushiswap.fi
+New UI built by OmakaseBar, full launch but it's being actively developed still
+https://twitter.com/OmakaseBar
 
 ### Rotating sushibar launching within 48 hours
 10 New pairs will be added to the staking menu, with a 0.2x multiplier to sushi rewards. This pool will rotate weekly based upon the communities choice. The purpose is to incentivise LP growth on the platform.
