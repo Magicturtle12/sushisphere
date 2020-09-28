@@ -33,13 +33,14 @@ https://medium.com/@boringcrypto/the-bentobox-lending-solution-1351606b9f5a
 ### Moonbeam Proposal
 
 https://forum.sushiswapclassic.org/t/moonbeam-sushiswap-proposal/375/3 
->As an example of how quickly a project can be ported to Moonbeam, the Uniswap V2 core contracts were deployed to the Moonbeam TestNet (Moonbase Alpha) with no changes whatsoever.
-
+> As an example of how quickly a project can be ported to Moonbeam, the Uniswap V2 core contracts were deployed to the Moonbeam TestNet (Moonbase Alpha) with no changes whatsoever.
+👀
 
 ### Jiro0no + Omakasebar Team Proposal
-##### Made by:
+##### Made by: 0xMaki
 https://forum.sushiswapclassic.org/t/team-proposal-omakasebar-jiroono/399
-Official funding proposal for adding Jiro0no and Omakasebar to the team
+
+Official funding proposal to add Jiro0no and Omakasebar to the team
 
 ### Official Marketing and Design Proposal 
 ##### Made by: ChesterLaCroix
