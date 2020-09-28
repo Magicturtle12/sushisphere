@@ -22,8 +22,9 @@ https://medium.com/@boringcrypto/the-bentobox-lending-solution-1351606b9f5a
 -flash loans, providing extra revenue for suppliers.
 
 ### New UI https://sushiswap.fi
-New UI built by OmakaseBar, full launch but it's being actively developed still
-https://twitter.com/OmakaseBar
+##### Built by OmakaseBar (https://twitter.com/OmakaseBar)
+full launch but it's being actively developed still
+
 
 ### Rotating sushibar launching within 48 hours
 10 New pairs will be added to the staking menu, with a 0.2x multiplier to sushi rewards. This pool will rotate weekly based upon the communities choice. The purpose is to incentivise LP growth on the platform.
@@ -61,7 +62,7 @@ relevant bits
 > They would work with volunteer / contracted designers and maintain brand standards across submissions, collaborate with and contract volunteer copywriters, work to establish relevant partnerships, brainstorm on social and marketing pushes in tandem with key insights from the community, and work to implement the strategies outlined below.
 
 ### A hiring model for wider solicitation of talent
-##### Made by: TimClancy
+##### Made by: TimClancy (@Tim Clancy in the discord)
 https://forum.sushiswapclassic.org/t/a-hiring-model-for-wider-solicitation-of-talent/335
 Key quotes and opinions from TimClancy during community discussion on discord&forums 
 
@@ -72,15 +73,12 @@ Key quotes and opinions from TimClancy during community discussion on discord&fo
 
 
 ### Schedule emissions to target hardcap
-##### Made by: BoringCrypto
+##### Made by: BoringCrypto (https://twitter.com/Boring_Crypto)
 https://forum.sushiswapclassic.org/t/schedule-to-reduce-sushi-block-to-meet-250m-max-target/419
 
 
 ***
-### Hardcap Discussion
 
-
-### Rotating sushi bar Discussion
 
 
 
