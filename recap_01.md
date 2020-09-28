@@ -4,7 +4,7 @@
 > down roughly ~23% stabilized at around 1.40
 ##### Market Cap: 138,626,594
 > down roughly ~22% , good correlation with price movement shows negligable effect from current emissions rate
-
+##### 24hr Trading volume(avg of last 7 days): ~$49,340,000
 
 
 ## News and Development
@@ -13,7 +13,7 @@
 🙏
 
 ### Liquidity.vision adds support for Sushiswap
-__C-C-C-COMBO: 🙏x2 
+C-C-C-COMBO: 🙏x2 
 
 ### Bentobox Proposal passes with overwhelming approval
 https://medium.com/@boringcrypto/the-bentobox-lending-solution-1351606b9f5a
@@ -28,6 +28,9 @@ https://twitter.com/OmakaseBar
 ### Rotating sushibar launching within 48 hours
 10 New pairs will be added to the staking menu, with a 0.2x multiplier to sushi rewards. This pool will rotate weekly based upon the communities choice. The purpose is to incentivise LP growth on the platform.
 
+### New UI designs fresh out of the kitchen!
+https://twitter.com/SushiSwap/status/1310368813548888064
+
 
 * * *
 
@@ -39,17 +42,17 @@ https://forum.sushiswapclassic.org/t/moonbeam-sushiswap-proposal/375/3
 👀
 
 ### Jiro0no + Omakasebar Team Proposal
-##### Made by: 0xMaki
+##### Made by: 0xMaki ( https://twitter.com/0xMaki )
 https://forum.sushiswapclassic.org/t/team-proposal-omakasebar-jiroono/399
 
 Official funding proposal to add Jiro0no and Omakasebar to the team
 
 ### Official Marketing and Design Proposal 
-##### Made by: ChesterLaCroix
-https://www.notion.so/SushiSWAP-Marketing-Proposal-5f67f362bb19428091925a54b1f78e57
-
+##### Made by: ChesterLaCroix 
 ###### ChesterLaCroix's Background
+https://www.notion.so/SushiSWAP-Marketing-Proposal-5f67f362bb19428091925a54b1f78e57
 > My personal background involves 8+ years of graphic, web, print, social media, and digital marketing design, with 3+ years experience in UI/UX.
+>I am currently the Creative and Branding Director for a retail marketing chain with 60+ physical locations ...  **I work to develop marketing strategies** ..., **create original content**,(and) aid in **brainstorming and executing social media outreach and marketing** across Twitter/IG/FB and Strava.
 
 relevant bits
 
