@@ -1,12 +1,13 @@
 #  Episode 2 Outline
 ## Sushinomics
+##### Price: 1.38
+> down roughly ~23% stabilized at around 1.40
+##### Market Cap: 138,626,594
+> down roughly ~22% , good correlation with price movement shows negligable effect from current emissions rate
 
 
 
 ## News and Development
-
-### Maki scheduled meeting on 28 september with Quantstamp to book auditors for project Bentobox.
-
 
 ### DeFiSafety updated score 19% -> 57%
 
@@ -22,7 +23,8 @@ https://medium.com/@boringcrypto/the-bentobox-lending-solution-1351606b9f5a
 
 ### New UI https://sushiswap.fi
 
-### 
+### Rotating sushibar launching within 48 hours
+10 New pairs will be added to the staking menu, with a 0.2x multiplier to sushi rewards. This pool will rotate weekly based upon the communities choice. The purpose is to incentivise LP growth on the platform.
 
 
 * * *
