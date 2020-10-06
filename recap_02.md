@@ -1,6 +1,7 @@
 #  Episode 2 Outline
 ## Sushinomics
-##### Price: 
+##### Price: 0.64
+>over 7 Days Down ~49%, YFI down ~41%, 
 
 ##### Market Cap: 
 
@@ -27,9 +28,11 @@ coin performance
 * * *
 
 ## Noteworthy Proposals
-### 
-##### Made by: 
+### SushiSwap Global PR/Marketing Campaign
+##### Made by: @SushiMiya & @chester_lacroix (https://twitter.com/chester_lacroix)
+https://forum.sushiswapclassic.org/t/sushiswap-global-pr-marketing-campaign-proposal-ii/521
 
+This proposal is to create comprehensive PR and Marketing strategies which help facilitate transparent and immediate communications between the SushiSwap core team and the global community, to improve SushiSwap branding, increase community participation in DAO, and help the dev team build up a more user-friendly SushiSwap based on the community’s feedback. The proposal also includes strategies to increase user growth and retention through the use of paid and organic social media and advertising strategies. With the effort of the core team and community, we can make SUSHI the most powerful community-run project in the crypto world.**
 
 ### Official Marketing and Design Proposal 
 ##### Made by: ChesterLaCroix 
