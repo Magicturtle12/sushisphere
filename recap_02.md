@@ -1,4 +1,4 @@
-#  Episode 2 Outline
+#  Episode 3 Outline
 ## Sushinomics
 ##### Price: 0.64
 >over 7 Days Down ~49%, YFI down ~41%, 
