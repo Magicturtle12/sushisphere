@@ -20,7 +20,11 @@
 
 https://twitter.com/0xMaki/status/1313630454449401856
 
-thoughts: Creating a shared ecosystem of real communities is how defi grows out of it's scam phase 
+https://www.coindesk.com/based-money-moonbase-defi-fair-launch-movement
+
+>Moonbase creates a way that new projects can offer tribute to the BASED community such that they have an incentive to back, promote and support the new project for at least a year. It could almost be called community mining.  
+“You can see the power of our community because our memes are dope and our messaging is cool,” Based Money God said. “Moonbase, the intent, socially, is trying to help these projects and bootstrap community and aligning themselves to Based.” 
+It might also be thought of hiring the Based community, in a way. Some crypto projects hire PR firms; some will hire the memesters of the Moonbase. 
 
 
 >Socially, by integrating with Moonbase, projects can join forces with the $BASED community, which is obviously the best and most alpha of all communities in DeFi, forming a symbiotic relationship. Since $BASED holders will directly benefit from the success of a partner project, they will work together to help that project succeed.
