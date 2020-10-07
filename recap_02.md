@@ -30,7 +30,9 @@ thoughts: Creating a shared ecosystem of real communities is how defi grows out 
 ##### 10 New pairs added, everything launches successfully
 
 
-
+### Around the Block #9: Dawn of the DeFi Protocol Wars
+##### Coinbase blog detailing the Sushiswap Saga and the beginning of the Protocol Wars (👀 are we in the future yet?)
+https://blog.coinbase.com/around-the-block-9-dawn-of-the-defi-protocol-wars-5118c23a0d49
 
 
 * * *
