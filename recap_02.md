@@ -3,16 +3,18 @@
 ##### Price: 0.64
 >over 7 Days Down ~49%, YFI down ~41%, 
 
-##### Market Cap: 
+##### Market Cap: $63,200,000
+>over 7 Days Down ~45.6%, 
 
-##### 24hr Trading volume(avg of last 7 days): 
+##### 24hr Trading volume(avg of last 7 days): ~$43,285,000
+>over 7 Days down ~12.4%
 
+##### sushi staked in bar: 23,814,961 sushi
+> Sushi bar APY(calculated with 7 day average): ~47.7% 
+>calculation: ((24hr_Trade_volume x 0.0005 x 7(days) x 4(weeks) x 12(months)) ÷ (Sushi_staked_# x Sushi_price) )
 
 ## News and Development
 
-### New Sushi artwork created by community
-
-🙏
 
 ### 
 
