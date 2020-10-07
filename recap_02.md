@@ -17,6 +17,7 @@
 
 
 ### 
+https://twitter.com/0xMaki/status/1313630454449401856
 
 ### 
 
@@ -49,12 +50,75 @@ relevant bits
 
 > They would work with volunteer / contracted designers and maintain brand standards across submissions, collaborate with and contract volunteer copywriters, work to establish relevant partnerships, brainstorm on social and marketing pushes in tandem with key insights from the community, and work to implement the strategies outlined below.
 
-### 
-##### Made by: 
+### Improved YFI-ETH Rewards to Drive Volume
+##### Made by: @MrBento 
+https://forum.sushiswapclassic.org/t/improved-yfi-eth-rewards-to-drive-volume/577
+YFI has been a critical volume driver for SushiSwap, but this is in jeopardy right now as the YFI-ETH pair loses liquidity and volume.
+
+This is a proposal to ramp up incentives for YFI-ETH without increasing overall emissions, in order to restore this strong positioning and drive volume to SushiSwap.
+
+relevant
+>
+
+    Raise YFI-ETH rewards to 4800.
+    Slash rewards on underperforming pools to keep total emissions in check. some suggestions: 
+    DAI, AMPL, BAND, UMA, sUSD, wBTC, UMA.
 
 
-### 
-##### Made by: 
+### New pools for week 41
+##### Made by: @BoringCrypto (https://twitter.com/Boring_Crypto)
+https://forum.sushiswapclassic.org/t/new-pools-for-week-41/542
+
+Top pairs on the poll as of october 6th
+> 
+    
+    AAVE
+    
+    TBTC
+    
+    MKR
+    
+    OMG
+    
+    PICKLE
+    
+    WBTC
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+### Domain name for Sushi
+##### Made by: @BoringCrypto (https://twitter.com/Boring_Crypto)
+https://forum.sushiswapclassic.org/t/domain-name-for-sushi/541
+
+We have moved from one domain to another: sushiswap.org, sushiswapclassic.org, sushiswap.fi 1 and it’s been a little confusing and doesn’t inspire confidence. Also, with the expansion into other areas, a name that includes swap doesn’t really work. So in the medium term it would be nice to move to a more serious umbrella domain under the SUSHI brand.
+
+Domains in poll:
+>
+    
+    Sushi.finance (10k)
+    
+    Sushi.org (65k)
+    
+    stick with what we have
+    
+    sushi.org (<35k)
+    
+    sushi.one ($700)
+    
+    
+    
+
 
 
 ***
