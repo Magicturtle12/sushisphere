@@ -16,14 +16,18 @@
 ## News and Development
 
 
-### 
+### Moonbase integration with Based.money
 https://twitter.com/0xMaki/status/1313630454449401856
 
-### 
+thoughts: Creating a shared ecosystem of real communities is how defi grows out of it's scam phase 
 
 
-### Rotating sushibar launches
-coin performance 
+>Socially, by integrating with Moonbase, projects can join forces with the $BASED community, which is obviously the best and most alpha of all communities in DeFi, forming a symbiotic relationship. Since $BASED holders will directly benefit from the success of a partner project, they will work together to help that project succeed.
+
+
+### Rotating sushibar launches!
+##### 10 New pairs added, everything launches successfully
+
 
 
 
