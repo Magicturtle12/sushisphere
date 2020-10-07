@@ -17,6 +17,7 @@
 
 
 ### Moonbase integration with Based.money
+
 https://twitter.com/0xMaki/status/1313630454449401856
 
 thoughts: Creating a shared ecosystem of real communities is how defi grows out of it's scam phase 
@@ -37,6 +38,7 @@ thoughts: Creating a shared ecosystem of real communities is how defi grows out 
 ## Noteworthy Proposals
 ### SushiSwap Global PR/Marketing Campaign
 ##### Made by: @SushiMiya & @chester_lacroix (https://twitter.com/chester_lacroix)
+
 https://forum.sushiswapclassic.org/t/sushiswap-global-pr-marketing-campaign-proposal-ii/521
 
 This proposal is to create comprehensive PR and Marketing strategies which help facilitate transparent and immediate communications between the SushiSwap core team and the global community, to improve SushiSwap branding, increase community participation in DAO, and help the dev team build up a more user-friendly SushiSwap based on the community’s feedback. The proposal also includes strategies to increase user growth and retention through the use of paid and organic social media and advertising strategies. With the effort of the core team and community, we can make SUSHI the most powerful community-run project in the crypto world.**
@@ -44,7 +46,9 @@ This proposal is to create comprehensive PR and Marketing strategies which help 
 ### Official Marketing and Design Proposal 
 ##### Made by: ChesterLaCroix 
 ###### ChesterLaCroix's Background
+
 https://www.notion.so/SushiSWAP-Marketing-Proposal-5f67f362bb19428091925a54b1f78e57
+
 > My personal background involves 8+ years of graphic, web, print, social media, and digital marketing design, with 3+ years experience in UI/UX.
 >I am currently the Creative and Branding Director for a retail marketing chain with 60+ physical locations ...  **I work to develop marketing strategies** ..., **create original content**,(and) aid in **brainstorming and executing social media outreach and marketing** across Twitter/IG/FB and Strava.
 
@@ -56,7 +60,9 @@ relevant bits
 
 ### Improved YFI-ETH Rewards to Drive Volume
 ##### Made by: @MrBento 
+
 https://forum.sushiswapclassic.org/t/improved-yfi-eth-rewards-to-drive-volume/577
+
 YFI has been a critical volume driver for SushiSwap, but this is in jeopardy right now as the YFI-ETH pair loses liquidity and volume.
 
 This is a proposal to ramp up incentives for YFI-ETH without increasing overall emissions, in order to restore this strong positioning and drive volume to SushiSwap.
@@ -71,6 +77,7 @@ relevant
 
 ### New pools for week 41
 ##### Made by: @BoringCrypto (https://twitter.com/Boring_Crypto)
+
 https://forum.sushiswapclassic.org/t/new-pools-for-week-41/542
 
 Top pairs on the poll as of october 6th
@@ -103,6 +110,7 @@ Top pairs on the poll as of october 6th
 
 ### Domain name for Sushi
 ##### Made by: @BoringCrypto (https://twitter.com/Boring_Crypto)
+
 https://forum.sushiswapclassic.org/t/domain-name-for-sushi/541
 
 We have moved from one domain to another: sushiswap.org, sushiswapclassic.org, sushiswap.fi 1 and it’s been a little confusing and doesn’t inspire confidence. Also, with the expansion into other areas, a name that includes swap doesn’t really work. So in the medium term it would be nice to move to a more serious umbrella domain under the SUSHI brand.
