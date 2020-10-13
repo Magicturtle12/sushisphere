@@ -59,25 +59,25 @@ relevant
     DAI, AMPL, BAND, UMA, sUSD, wBTC, UMA.
 
 
-### New pools for week 41
-##### Made by: @BoringCrypto (https://twitter.com/Boring_Crypto)
+### Pool Rotation (Menu of the Week) [Week 42]
+##### Made by: @0xMaki (https://twitter.com/0xMaki)
 
-https://forum.sushiswapclassic.org/t/new-pools-for-week-41/542
+https://forum.sushiswapclassic.org/t/pool-rotation-menu-of-the-week-week-42/629
 
-Top pairs on the poll as of october 6th
+Top pairs on the poll as of october 12th
 > 
     
-    AAVE
+    WBTC-TBTC
     
-    TBTC
+    HEGIC-ETH
     
-    MKR
+    CORE-ETH
     
-    OMG
+    yUSD-ETH
     
-    PICKLE
+    PICKLE-ETH
     
-    WBTC
+    CREAM-ETH
     
     
     
