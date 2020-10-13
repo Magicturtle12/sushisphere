@@ -15,6 +15,10 @@
 ## News and Development
 
 
+### Work continues on BentoBox
+https://twitter.com/Boring_Crypto/status/1315360968164089856
+
+
 ### Moonbase integration with Based.money
 
 https://twitter.com/0xMaki/status/1313630454449401856
