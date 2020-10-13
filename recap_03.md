@@ -29,8 +29,8 @@ It might also be thought of hiring the Based community, in a way. Some crypto pr
 >Socially, by integrating with Moonbase, projects can join forces with the $BASED community, which is obviously the best and most alpha of all communities in DeFi, forming a symbiotic relationship. Since $BASED holders will directly benefit from the success of a partner project, they will work together to help that project succeed.
 
 
-### 
-##### 
+### Pool Rotation (Menu of the Week) [Week 42]
+##### https://forum.sushiswapclassic.org/t/gas-rebate-for-high-volume-traders/376
 
 
 ### Around the Block #9: Dawn of the DeFi Protocol Wars
