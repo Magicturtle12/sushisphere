@@ -73,6 +73,9 @@ We currently have another team working on a @ProjectSerum implementation no migr
 
 thoughts: I think this is a very sensible change, it doesnt make much sense to me to heavily incentivise Sushi-eth LP's but ignore xSushi-eth LPs.. Ideally I believe the optimal form of sushi *is* xSushi(tide that lifts all boats analogy).
 
+### Recap of the Official Mobile App Proposal
+#### made by: siliconvalley (https://forum.sushiswapclassic.org/t/proposal-for-the-official-sushiswap-mobile-app-postponed-til-later-time-in-sushiswaps-development/441)
+
 
 
 ***
