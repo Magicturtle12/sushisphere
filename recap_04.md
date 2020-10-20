@@ -16,7 +16,7 @@
 
 ### 
 
-### Menu of the week [Week 42] pools launched!
+### Menu of the week [Week 43] pools launched!
 HEGIC-ETH
 
 wNXM-ETH
@@ -37,7 +37,7 @@ RARI-ETH
 
 DPI-ETH
 
-
+Week 44 menu poll launched https://forum.sushiswapclassic.org/t/pool-rotation-menu-of-the-week-week-44/883
 
 ### Finematics mentions sushi as a yield farming "opportunity" that still has life in his most recent video 'Is Yield Farming dead?' 
 https://youtu.be/s0Of2ZnyhIE?t=499
