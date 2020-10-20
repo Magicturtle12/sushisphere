@@ -9,12 +9,6 @@
 
 ## News and Development
 
-###
-
-
-### 
-
-### 
 
 ### Menu of the week [Week 43] pools launched!
 HEGIC-ETH
