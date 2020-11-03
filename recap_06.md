@@ -1,29 +1,37 @@
 
 #  Episode 6 Outline
 ## Sushinomics
-##### Price: $
->over 7 Days
-##### Market Cap: $
->over 7 Days 
+##### Price: $0.56
+>over 7 Days -9.0%
+##### Market Cap: $56,819,710
+>over 7 Days -7.7%
 
-##### 24hr Trading volume(avg of last 7 days): ~$
->over 7 Days down
+##### 24hr Trading volume(avg of last 7 days): ~$18,700,000
+
 
 
 ## News and Development
 
-### 
+### Release of newest UI, Limit Orders, Bug bounties,Keep3r integration, Bento box, & more
 ##### 
+https://twitter.com/sushiswap/status/1322374490316283905?s=21
+lite.sushiswap.fi 
 
-
-### 
+### Nansen analysis
 ##### 
+https://research.nansen.ai/sushiswap-farming/amp/
+
+### New menu of the week
+##### Farm, renBTC, DOUGH, STAKE, RSR, tBTC, Audio, WBTC, wNXM, WBTC-TBTC pools added
+
 
 * * *
 
 ## Noteworthy Proposals
-### 
-##### Made by:
+### Adding WBTC/Eth to core menu
+##### Made by: elee https://forum.sushiswapclassic.org/t/proposal-adding-wbtc-eth-to-the-common-pool/1124
+
+
 
 ### 
 ##### Made by: 
