@@ -28,17 +28,15 @@ https://research.nansen.ai/sushiswap-farming/amp/
 * * *
 
 ## Noteworthy Proposals
+
 ### Adding WBTC/Eth to core menu
-##### Made by: elee https://forum.sushiswapclassic.org/t/proposal-adding-wbtc-eth-to-the-common-pool/1124
 
+##### Made by: elee 
 
+https://forum.sushiswapclassic.org/t/proposal-adding-wbtc-eth-to-the-common-pool/1124
 
-### 
-##### Made by: 
+Voted against, as wBTC pairs are added to the weekly menu, which is a better place to start. If volume migrates core menu could be a consideration after a few weeks.
 
-
-### 
-##### Made by:
 
 ### 
 ##### Made by: 
