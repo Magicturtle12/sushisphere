@@ -20,8 +20,12 @@ lite.sushiswap.fi
 ##### 
 https://research.nansen.ai/sushiswap-farming/amp/
 
-### New menu of the week
-##### Farm, renBTC, DOUGH, STAKE, RSR, tBTC, Audio, WBTC, wNXM, WBTC-TBTC pools added
+
+### New Menu of the Week!
+##### AKRO-ETH, HEZ-ETH, YAX-ETH (yAxis), oUSD-USDT, SURF-ETH, KP3R-ETH, SEEN-ETH, AXS-ETH
+##### and the two top preformers from last week, wBTC-ETH and wNXM-ETH
+
+
 
 
 * * *
