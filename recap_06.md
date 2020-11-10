@@ -1,12 +1,11 @@
 
 #  Episode 6 Outline
 ## Sushinomics
-##### Price: $0.56
->over 7 Days -9.0%
-##### Market Cap: $56,819,710
->over 7 Days -7.7%
+##### Price: $0.62
+>over 7 Days +19.0%
 
-##### 24hr Trading volume(avg of last 7 days): ~$18,700,000
+
+##### 24hr Trading volume(avg of last 7 days): ~$26 million
 
 
 
@@ -38,8 +37,11 @@ https://forum.sushiswapclassic.org/t/proposal-adding-wbtc-eth-to-the-common-pool
 Voted against, as wBTC pairs are added to the weekly menu, which is a better place to start. If volume migrates core menu could be a consideration after a few weeks.
 
 
-### 
-##### Made by: 
+### Gusoku: Options-based IL protection - HackMD 
+##### Made by: kamiebisu
+https://forum.sushiswapclassic.org/t/gusoku-options-based-il-protection-hackmd/1168/13
+https://hackmd.io/j70mou-pQ_KZ8lcDPrb1qA
+
 
 ***
 
