@@ -1,5 +1,5 @@
 
-#  Episode 7 Outline
+#  Episode 8 Outline
 
 * * *
 
@@ -14,14 +14,14 @@
 
 ## News and Development
 
-### 
+### AMPL Geyser program live, earn AMPL&Sushi rewards!
 ##### 
-https://twitter.com/sushiswap/status/1322374490316283905?s=21
-lite.sushiswap.fi 
+https://twitter.com/AmpleforthOrg/status/1331032814838456321
 
-### 
+
+### Cover Proposal snapshot live
 ##### 
-https://research.nansen.ai/sushiswap-farming/amp/
+https://twitter.com/CoverProtocol/status/1331521760903172102
 
 
 ### New Menu of the Week!
@@ -35,19 +35,18 @@ https://research.nansen.ai/sushiswap-farming/amp/
 
 ## Noteworthy Proposals
 
-### 
+### Treasury Management : #1
 
+##### Made by: 0xMaki (https://twitter.com/0xmaki/)
+
+https://forum.sushiswapclassic.org/t/treasury-management-1/1464
+
+
+
+
+### 
 ##### Made by: 
 
-https://forum.sushiswapclassic.org/t/proposal-adding-wbtc-eth-to-the-common-pool/1124
-
-
-
-
-### 
-##### Made by: 
-https://forum.sushiswapclassic.org/t/gusoku-options-based-il-protection-hackmd/1168/13
-https://hackmd.io/j70mou-pQ_KZ8lcDPrb1qA
 
 
 ***
