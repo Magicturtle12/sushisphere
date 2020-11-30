@@ -4,11 +4,11 @@
 * * *
 
 ## Sushinomics
-##### Price: 1.14
+##### Price: 1.53
 >
 
 
-##### 24hr Trading volume(avg of last 7 days): ~$70.4 million
+##### 24hr Trading volume(avg of last 7 days): ~$730 million
 
 
 
@@ -19,8 +19,15 @@
 https://twitter.com/AmpleforthOrg/status/1331032814838456321
 
 
+### Rekt aricle on sushi bar exploit
+##### all sushi bar stakers compensated for loss of funds(~15k)
+https://twitter.com/rekthq/status/1333134553578430471
+https://twitter.com/0xmaki/status/1333181265764360193?s=21
 
+### Cover-Eth pool voted in for 0.1x sushi rewards for 3 months
+https://twitter.com/SushiSwap/status/1333492134780018689
 
+### Bentobox audit complete, launch imminent
 
 
 
