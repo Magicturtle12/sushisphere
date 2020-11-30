@@ -57,7 +57,7 @@ With an increase in security breaches in smart contracts and the crypto space as
 
 ##### https://forum.sushiswapclassic.org/t/cover-protocol-sushiswap-coverage-collaboration/1402
 
-### Cover Proposal snapshot live
+### Cover Proposal snapshot (Passed!)
 https://twitter.com/CoverProtocol/status/1331521760903172102
 
 
