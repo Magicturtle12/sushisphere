@@ -8,7 +8,7 @@
 >
 
 
-##### 24hr Trading volume(avg of last 7 days): ~$730 million !!
+##### 24hr Trading volume(avg of last 7 days): ~$105 million !!
 
 
 
