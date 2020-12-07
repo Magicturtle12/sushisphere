@@ -1,4 +1,6 @@
 
+Template for The Sushi Forum weekly agenda
+
 
 #  Episode  Outline
 
