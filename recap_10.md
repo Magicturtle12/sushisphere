@@ -39,7 +39,8 @@ SUSHI-WETH      71% APY
 
 ### New official sushiswap Logo designed by @Kastrye and @Chester_Lacroix 
 
-
+### BadgerDAO launches, airdrops tokens to sushi governance participants
+https://twitter.com/BadgerDAO/status/1334559579070488576
 
 * * *
 
