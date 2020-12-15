@@ -1,17 +1,18 @@
 
-Template for The Sushi Forum weekly agenda
 
 
 #  Episode  Outline
 
 * * *
-
 ## Sushinomics
-##### Price: 2.53
->
+#### Price:                $2.53 (+8%)
+
+#### Market Cap:            $338,061,462 (+9%)
+
+#### TVL:                1,029,783,367 (+5%)
 
 
-##### 24hr Trading volume(avg of last 7 days): ~$65.5 million
+#### 24hr Trading volume(avg of last 7 days): ~$65.5 million
 
 
 
@@ -47,15 +48,18 @@ Lattice by @gridplus
 
 ### oneSUSHI Proposal: A Stablecoin Governed by Sushipowah 
 ##### Made by: Masanobu_Fukuoka
+https://forum.sushiswapclassic.org/t/hiring-guideline/1605
+**Summary**
 
-Summary
-Create a sushi-backed stablecoin via the ichi.farm platform, 25k sushi sent to collateral vault on ichi.farm 50k ichi sent to ichi-oneSUSHI liquidity rewards
+Create a sushi-backed stablecoin via the ichi.farm platform, 25k sushi sent to collateral vault on ichi.farm 50k ichi sent to ichi-oneSUSHI liquidity rewards.
+
 
 
 ### Team Proposal: Clearwood
 ##### Made by: Clearwood
 https://forum.sushiswapclassic.org/t/team-proposal-clearwood/1591/11
-Summary
+**Summary**
+
 >Hello World. I am Clearwood, a smart contracts developer. Over the past years, I have been closely embedded in the Ethereum ecosystem, working on Layer2 scaling, most recently with optimistic roll-ups.
 I have experience with UTXO chains, building dApps, and strive for perfection. Working in decentralized and international teams for years, I know the pitfalls in organization and project alignment while being separated by oceans, continents, and time zones.
 I am nominating myself as a new team member. At SushiSwap, I have been working together with @BoringCrypto to make sure to deliver BentoBox on time. I value the collaboration, being able to bounce ideas back and forth, trying to find the error in each other’s thoughts until arriving at an optimal solution.
@@ -63,7 +67,8 @@ I am nominating myself as a new team member. At SushiSwap, I have been working t
 
 ### Hiring Guideline
 ##### Made by:0xNigiri
-**Summary
+https://forum.sushiswapclassic.org/t/hiring-guideline/1605
+**Summary**
 
 This proposal formalizes the structural process to hiring team members as outlined in https://forum.sushiswapclassic.org/t/a-hiring-model-for-wider-solicitation-of-talent/335
 
