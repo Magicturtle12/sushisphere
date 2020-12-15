@@ -76,6 +76,7 @@ Lattice by @gridplus
 ### oneSUSHI Proposal: A Stablecoin Governed by Sushipowah 
 ##### Made by: Masanobu_Fukuoka
 https://forum.sushiswapclassic.org/t/hiring-guideline/1605
+
 **Summary**
 
 Create a sushi-backed stablecoin via the ichi.farm platform, 25k sushi sent to collateral vault on ichi.farm 50k ichi sent to ichi-oneSUSHI liquidity rewards.
@@ -85,6 +86,7 @@ Create a sushi-backed stablecoin via the ichi.farm platform, 25k sushi sent to c
 ### Team Proposal: Clearwood
 ##### Made by: Clearwood
 https://forum.sushiswapclassic.org/t/team-proposal-clearwood/1591/11
+
 **Summary**
 
 >Hello World. I am Clearwood, a smart contracts developer. Over the past years, I have been closely embedded in the Ethereum ecosystem, working on Layer2 scaling, most recently with optimistic roll-ups.
@@ -95,6 +97,7 @@ I am nominating myself as a new team member. At SushiSwap, I have been working t
 ### Hiring Guideline
 ##### Made by:0xNigiri
 https://forum.sushiswapclassic.org/t/hiring-guideline/1605
+
 **Summary**
 
 This proposal formalizes the structural process to hiring team members as outlined in https://forum.sushiswapclassic.org/t/a-hiring-model-for-wider-solicitation-of-talent/335
