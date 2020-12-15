@@ -22,6 +22,33 @@
 
 
 ### Bento under audit by Quantstamp and Peckshield
+
+### Pair weights updated
++ Added 0.35x to DAI-ETH
++ Added 0.36x to WBTC-ETH
++ Added 0.2x to YFI-ETH
++ Added new pool KP3R-ETH w/ 0.2x
++ Added COVER & AMPL incentives both 0.1x
++ Removed 0.5x from SUSD-ETH
++ Removed 0.1x from UNI-ETH
++ Removed 0.05x from YAM-ETH
++ Removed 0.2x from COMP-ETH
++ Removed 0.2x from UMA-ETH
++ Removed 0.2x from BAND-ETH
+
+### Saffron.finance has incentivised sushiswap liquidity pool
+
+
+### Something cooking in the kitchen over at Overlay Protocol
+https://twitter.com/OverlayProtocol/status/1337109688006012928
+1. Using an oracle, any Overlay coin (OVL) holder can query a set of streaming data sources, such as the USD/EUR exchange rate, the Consumer Confidence Index, the number of albums sold by an artist last month, and so forth.
+2. Any fraction of an OVL token can be locked to a single market price by opening a virtual trade, which is a buy or a sell of a market at whatever value the oracle yields for the data stream.
+3. At a later time, the owner of those OVL can unlock them. The value of the data stream will be queried again, the price delta will be computed as a percentage return.
+4. The original amount of locked OVL in the owner’s wallet will be increased or decreased by that percentage. OVL tokens are created and destroyed dynamically upon unlocking.
+
+
+
+
  
 
 
