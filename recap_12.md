@@ -26,6 +26,10 @@ Anticipated release date mid-january
 https://twitter.com/0xMaki/status/1339296995303940097
 
 
+### Zerion adds sushiswap support 
+https://twitter.com/zerion_io/status/1339624383183286276?s=20
+
+
 ### Thread by @Future_Fund_ on the optimistic future of Sushiswap
 https://twitter.com/FUTURE_FUND_/status/1341006450311581696
 
