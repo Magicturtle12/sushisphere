@@ -39,6 +39,15 @@ https://twitter.com/FUTURE_FUND_/status/1341006450311581696
 
 ## Noteworthy Proposals
 
-### No new proposals :) 
+### oneSUSHI Proposal: A Stablecoin Governed by Sushipowah 
+##### Made by: Masanobu_Fukuoka
+https://forum.sushiswapclassic.org/t/hiring-guideline/1605
+
+**Summary**
+
+Create a sushi-backed stablecoin via the ichi.farm platform, 25k sushi sent to collateral vault on ichi.farm 50k ichi sent to ichi-oneSUSHI liquidity rewards.
+
+
+
 ***
 
