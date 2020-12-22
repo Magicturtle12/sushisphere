@@ -27,7 +27,7 @@ https://twitter.com/0xMaki/status/1339296995303940097
 
 
 ### Zerion adds sushiswap support 
-https://twitter.com/zerion_io/status/1339624383183286276?s=20
+https://twitter.com/SushiSwap/status/1339648402188087297
 
 
 ### Thread by @Future_Fund_ on the optimistic future of Sushiswap
