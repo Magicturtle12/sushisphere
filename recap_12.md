@@ -45,6 +45,18 @@ https://medium.com/@boringcrypto/bentobox-to-launch-and-beyond-d2d5dc2350bd
 
     Initially, we could support xSushi as the main collateral, so you can be earning SUSHI while minting synthetic assets.
 
+
+    Once the BentoBox has Lending, AMM, etc and the BentoBox Plus is live, here’s an example of how it could be used:
+
+    Let’s say you HODL ETH and BTC. You could add your WBTC and ETH to the BentoBox and provide both assets for Lending.
+    This will give you lending tokens. These tokens could be placed in an AMM pair and they will be arbitraged by 
+    traders as the price of ETH-BTC moves (indirectly providing more liquidity to the overall on-chain ETH-BTC market).
+    This will mint you SLP tokens for this pair. This could be supplied as collateral to borrow for instance USDC
+    (or to borrow more WBTC and ETH to repeat the above and leverage this position).
+
+    This takes capital efficiency options to a whole new level.
+
+
 Anticipated release date mid-january 
 
 
