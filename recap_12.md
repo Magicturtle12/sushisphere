@@ -110,7 +110,10 @@ Here are the basics:
 
 
 ### Hiring Proposal: Hire BoringCrypto as Lead Architect for Sushi
-Boring Crypto has been with sushiswap since the earliest of the early days. A short list of work done
+Boring Crypto has been with sushiswap since the earliest of the early days. He is as important to sushiswap as 0xMaki is in my opinion. His code continued the work of our last head chef, rip nomi. Boring has been a professional and dedicated builder for the sushiswap ecosystem throughout times of community backlash and price fears. 
+
+
+A short list of work done
 
     - Did the first and only test migration on Ropsten testnet
     - Created https://app.boring.finance 27
@@ -138,6 +141,10 @@ Boring's thoughts on compensation
     rewarded.Since I’ve been part of this ride since the beginning I feel it’s fair that I would receive 
     compensation in line with the other members of the core team (or the compensation of the core team 
     should be adjusted, which I would support).
+
+
+I'm voting Yes on this proposal, and believe Boring should be compensated in line with current core team members. I am a fan of the idea put forward by bento, where they are backpaid in full in exchange for deducting the bentobox revenue stream from the compensation plan going forward. However this compensation plan also requires more maintenance. 
+
 
 https://forum.sushiswapclassic.org/t/hire-boringcrypto-me-as-lead-architect-for-sushi/1699/36
 
