@@ -59,6 +59,16 @@ https://forum.sushiswapclassic.org/t/hiring-guideline/1605
 
 Create a sushi-backed stablecoin via the ichi.farm platform, 25k sushi sent to collateral vault on ichi.farm 50k ichi sent to ichi-oneSUSHI liquidity rewards.
 
+Here are the basics:
+
+    - When you mint, you pay the $1 of value in two parts: part USDC and part SUSHI. When you redeem, you only get back USDC. That is how you can make a strong guarantee that you will get $1 of value when redeeming.
+    - The SUSHI paid in goes into a community treasury.
+    - The ratio of USDC to oneSUSHI minted is called the minting ratio. It will initially be 100%. The ratio of buying to selling in any given hour will raise or lower the minting ratio by 0.2%. There is a minimum ratio set by oneSUSHI holders as well for safety purposes.
+    - Minting (0% now) + Redemption (0.5% now) fees stay in USDC reserves, helping to drive over-collateralization even at a stable ICHI price. These fees should be lowered to 0% over time.
+
+
+
+
 
 ### Hiring Proposal: Hire BoringCrypto as Lead Architect for Sushi
 Boring Crypto has been with sushiswap since the earliest of the early days. A short list of work done
