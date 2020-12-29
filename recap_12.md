@@ -17,7 +17,34 @@
 
 
 ### HUGE bentobox update post
+
 https://medium.com/@boringcrypto/bentobox-to-launch-and-beyond-d2d5dc2350bd 
+
+
+    All the DeFi protocols work with tokens. They need to be stored somewhere. 
+    In most cases, they are stored in the contract that works with them. In the 
+    USDC-WBTC pair on SushiSwap for instance, the USDC and WBTC tokens are held
+    in the contract for this specific pair. This way you need to approve each 
+    token for use in each protocol.
+
+     This is where the BentoBox comes in. The BentoBox is a single vault that holds all tokens.
+     Not just for the lending contracts, but also for any other protocols and future extensions.
+     Anyone can build extensions that use the BentoBox as their vault with these benefits:
+
+    Once a token is approved for the Vault, any protocol built using BentoBox doesn’t need per token approval anymore.
+    Low flat gas fees for internal token transfers (even between different protocols using BentoBox) and advanced transfers such as one-to-many transfers.
+    Funds of users and protocols are separated internally. Only protocols that the user approves can access the user’s funds.
+
+
+
+    Issue Synthetic Assets (such as Stablecoins)
+
+    Once lending is live, only a small change is needed to allow users to deposit collateral 
+    and instead of lending assets, they can mint synthetic assets. Oracles, liquidation, etc 
+    all work the same. When the synthetics are returned, they are burned and collateral is returned.
+
+    Initially, we could support xSushi as the main collateral, so you can be earning SUSHI while minting synthetic assets.
+
 Anticipated release date mid-january 
 
 
