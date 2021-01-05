@@ -56,3 +56,5 @@ Summary
 
 ***
 
+Follow @TheSushiForum on twitter for sushi forum updates
+and follow @NewSushiTimes for great sushiswap updates
