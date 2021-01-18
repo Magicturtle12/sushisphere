@@ -74,6 +74,36 @@ live Arbitrage view, compact yield farming stats, and API documentation for buil
 https://twitter.com/PuzzleVentures/status/1351102467832950788
 
      scheduled Tuesday Jan 19 at 3pm UTC+8 (Beijing Time)
+     
+------------------------------------------
+     
+## Recap from dev q&a, Writeup by: @orionmuir
+
+**When can we expect Bento? When will the audit become available to the public?
+
+Bento should be integrated into our main UI and available to the public mid next month. The audit was completed last month and we have successfully implemented Peckenshield’s suggestions. However, we are committed to delivering a product that we are sure is safe for our users. We have continued to test Bento, as many protocols with respected audits have been exploited. We discovered issues that were not found in the audit and have patched these. Maki has been on holiday recently, he will be back in action and the pace of things should pick up.
+
+**What are sushi’s plans with the dot network?
+
+So far we are collaborating specifically with the moonbeam protocol. The planis to have the moonbeam network airdrop a small amount of native token as well as taking their ethereum sushi balance giving them a corresponding amount of moonsushi tokens. 
+
+**Any updates on Aave allowing xsushi as collateral?
+
+Since the original announcement I have heard nothing. (double checks chainlink) There isn’t a proper oracle for xSushi. I (boring) could easily make one, but haven’t been directed to.
+
+**What is the status of the limit order functionality for Sushi?
+
+This was developed by LevX and had been available in tester mode on https://sushiswap.fi/, but very recently its functionality was removed due to a bug. We noticed very little activity for this feature and decided other features such as bento box UI should be prioritized by LevX. He still plans on completing this, but there is no release date yet.
+
+**Yearn has a newsletter which helps get the word out about new developments in the ecosystem. I notice that sushi has so many developments, but no one knows about them. Does sushi have any plans for a newsletter?
+
+We desperately need one. I think that we should hire somebody. I will take to Miya about this.
+
+**Any updates on that cool traderview ui for sushi that I saw referenced a while ago on your discord?
+
+Actually we already released this. Further proof we need to get news out to the community. You can access it at https://www.sushitrader.io 5 or https://trader.sushiswap.fi/ 5 I really like how it shows you all the swaps that are taking place in real time.
+
+
 
 
 ### Core Developer AMA 
@@ -106,7 +136,6 @@ Summary
 
 Thoughts:
 Very similar to the ichi farm concept, aswell as frax. The proposal is much more straightforward than ichifarm's proposal however I personally feel the Onsen application process is the proper channel for any erc20 token to earn AP weight. I also agree with several people in the forums that it's in sushiswaps best interest to deploy a stablecoin that is wrapped on the bentobox, rather than relying on a third parties code.
-
 
 
 
