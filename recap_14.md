@@ -40,7 +40,12 @@ https://boringcrypto.medium.com/bentobox-to-launch-and-beyond-d2d5dc2350bd
     aren’t an AMM anymore moving forward but an OpenOrg part of the Yearn ecosystem.
     
 ##### -Governance
-    Targeting AragonV2 by Q4 2021
+    AragonV2 being considered https://gov.yearn.finance/t/adopt-snapshot-aragon-for-binding-governance/5568/67 
+    
+    Another option would be to follow the steps of Synthetix 
+    and opt for a Council of community members voted by the community.
+    
+    Targeting governance upgrade by Q4 2021
 
 #### -Miso
 
