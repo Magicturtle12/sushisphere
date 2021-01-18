@@ -5,8 +5,8 @@
 * * *
 
 ## Sushinomics
-##### Price: 7.30
->up 108% 14day
+##### Price: 7.13
+>up 104% 14day
 >sushibar staking at ATH
 
 
