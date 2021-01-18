@@ -58,6 +58,23 @@ The launchpadV1 will bundle together multiple features which is widely known are
     - Auctions
     - Crowdsales
 
+#### Integrations
+        - Cross-chain AMM enabled by (Rune/Moonbeam)
+            - Polkadot/Moonbeam should have a live testing version of Sushiswap Q2 on Kusama
+        - MEV integration via ArcherDAO
+            -(SLP pools should aim to be last in a block when deployed to prevent sniping by bots)
+        -Incentivize teams, wallets, dApps & protocols to build with Sushiswap via an emission enabled pool of 0.1x
+ 
+###### A current list of projects secured for Q1 2021 :
+
+- FRAX (https://frax.finance)
+
+- DSD (https://dsd.finance)
+
+- BAO (https://www.bao.finance)
+
+###### More will be joining our establishment soon.
+
 #### Layer 2
     We will move in sync with the greater Yearn ecosystem. Zk-rollups are currently the option privileged 
     since composability is key. Matter labs have been quite supportive, and we are keeping up with the 
