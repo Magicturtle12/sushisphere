@@ -21,12 +21,16 @@
 https://sushiswapchef.medium.com/2021-3e1f45cf86a2
 
 ##### -Sushibar v2 
+    - No lockup so we can integrate inside Aave-Maker
+    - Keep3r auto-serving of rewards
+    - Wrapped-SLP to be used in various money market
+
 
 ##### -AMM v2 + Deriswap
     - Franchised Pools
     - Double Yield
     - K3PR dynamic Yield Rebalancing
-    -I ntegrated 1-Click Zap
+    - Integrated 1-Click Zap
 
 ##### -BentoBox
 https://boringcrypto.medium.com/bentobox-to-launch-and-beyond-d2d5dc2350bd
