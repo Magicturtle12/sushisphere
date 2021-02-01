@@ -64,11 +64,17 @@ positions while earning interest.
  - If all existing Badger users with these 2 vault positions mint CLAWS then there would be a total of $161,500,000 in circulation.
  - We then will have 2 liquidity pools on Sushiswap (bCLAWS/USDC and sCLAWS/USDC) where users can deposit their newly minted CLAWS. 
     - To do so that would involve adding the other side as well (USDC) which would bring the total liquidity to $323,000,000.
-  -On Badger there will be 2 available vaults for depositing the sCLAWS/USDC and bCLAWS/USDC SLP tokens. 
+ - On Badger there will be 2 available vaults for depositing the sCLAWS/USDC and bCLAWS/USDC SLP tokens. 
     - In doing so users would earn Badger, DIGG, UMA and xSUSHI.
  - Based on our experience, to incentivize these vaults to reach capacity we feel 25% APY on sCLAWS/USDC SLP and 50% APY bCLAWS/USDC 
 SLP would potentially accomplish this.
- - 
+ - For a 3 way split among collaborators that would mean;
+
+   - 48,858 SUSHI (@$8.20/SUSHI) rewards per week for the wbtc/eth SLP collateralized vault (sCLAWS/USDC)
+
+   - 19,543 SUSHI (@$8.20/SUSHI) rewards per week for the bBadger collateralized vault (bCLAWS/USDC)
+
+- This weekly rewards would be up to a maximum of 8 weeks.
 
 
 
