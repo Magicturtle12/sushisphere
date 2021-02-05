@@ -29,11 +29,11 @@
 ##### For the governance thing One question that i see before was that what happen if the dev refuse to implement what is agreed by the community through voting
 
 
- #### Siddharth | DefiDollar:
+####  Siddharth | DefiDollar:
 ##### it hasn't happened yet ￼
 
 
- #### magicturtle🍣:
+####  magicturtle🍣:
 ##### Siddharth, how does the system handle a black swan event, say usdT blows up
 
 ####  Siddharth | DefiDollar
@@ -42,7 +42,7 @@
 
 
 
- #### Siddharth | DefiDollar:
+####  Siddharth | DefiDollar:
 ##### more on our stability module soon - it is still under development, final stages . taking feedback from peers
 
 
@@ -72,7 +72,7 @@
 ##### how does the team decide to add new collateral types @Siddharth | DefiDollar is it just based off of governance?
 
 
- #### Siddharth | DefiDollar:
+####  Siddharth | DefiDollar:
 ##### It will transition to governance, and not just the new pools but also the weights ascribed to them in the index
 
 
@@ -80,18 +80,18 @@
 ##### gotchya, when will that transition happen?
 
 
- #### Siddharth | DefiDollar:
- ##### the protocol is not that mature yet for the transition, also its not a 0 to 1 thing, it has started though, we already had voting on one proposal eventually the control will transition ; the key is to iterate fast now and create value that needs to be governed actively
+#### Siddharth | DefiDollar:
+##### the protocol is not that mature yet for the transition, also its not a 0 to 1 thing, it has started though, we already had voting on one proposal eventually the control will transition ; the key is to iterate fast now and create value that needs to be governed actively
 
 
- #### magicturtle🍣:
+####  magicturtle🍣:
 ##### ic ic, so in a sense it's already begun transitioning it's just a gradual process that you guys are sort of safeguarding in the initial period
 
 ####  Siddharth | DefiDollar:
 #####  that is correct ￼
 
 
- #### yao: 
+####  yao: 
 ##### May I ask - how did you find your original seed funders / network of advisors who are helping you now? Are they helpful/hands on or are they more "sit back and let you get on with it"?
 
 
