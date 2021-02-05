@@ -133,3 +133,9 @@
 #### Siddharth | DefiDollar:
 ##### hahahah let's consider that when the time comes, but duly noted! ￼
 
+#### Siddharth | DefiDollar: 
+
+##### Thanks for having me folks :slight_smile:
+
+##### Drop by in our discord if you have any questions or wanna track our progress or just wanna learn more!
+##### discord.gg/zGmC547
