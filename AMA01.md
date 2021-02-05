@@ -4,9 +4,7 @@
 
 #### Siddharth | DefiDollar: 
 ##### We have a dual token design: - The stablecoin index, pegged to $1 - DUSD and A governance token - DefiDollar DAO ($DFD)
-##### $DUSD is optimized for peg safety, yield and diversification. The basket approach diversifies the risk, by allowing more types of collateral 
-##### to be onboarded and allows integration with yield generating DeFi primitives. The inbuilt protocol mechanisms along with arbitrage helps keep 
-##### the peg close to $1
+##### $DUSD is optimized for peg safety, yield and diversification. The basket approach diversifies the risk, by allowing more types of collateral to be onboarded and allows integration with yield generating DeFi primitives. The inbuilt protocol mechanisms along with arbitrage helps keep the peg close to $1
 ##### Currently we are leveraging Curve(yPool) and the yVault from yearn. This is also where the protocol generates income for its users
 
 ##### We are also doing a lot of experiments in the stablecoin ecosystem ￼
@@ -16,10 +14,9 @@
 ##### Siddhart, will there be insurance covering defidollar?
 
 ####  Siddharth | DefiDollar:
-##### we are thinking of a number of ways to secure the protocol! Insurance is definitely a part of it, and should be 
-##### live this coming week. So you would be able to insure your deposits on chain
+##### we are thinking of a number of ways to secure the protocol! Insurance is definitely a part of it, and should be live this coming week. So you would be able to insure your deposits on chain
 
- #### Siddharth | DefiDollar:
+####  Siddharth | DefiDollar:
 ##### we just launched a $30,000 bug bounty program as well￼ https://twitter.com/defidollar/status/1356981391335043072?s=20 
 ##### well insurance is one strong pillar in our security triad of : audits, external bug hunters and insurance
 
