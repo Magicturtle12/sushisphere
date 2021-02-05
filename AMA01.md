@@ -58,14 +58,14 @@
 ##### So DUSD is backed by an index of other stable coins? Is that to protect it from an event as @magicturtle🍣 just mentioned?
 
 
- #### Siddharth | DefiDollar :
+####  Siddharth | DefiDollar :
 ##### that is correct! we are currently leveraging the Curve yPool as a liquidity pool. But new pools are coming.
 
 #### Siddharth | DefiDollar :
 ##### voting just concluded on the https://www.curve.fi/saave/ pool on curve which we are targeting to integrate next, it will give a bit of decentralized/Non custodial weight to the index
 
 
- #### magicturtle🍣:
+####  magicturtle🍣:
 ##### how does the team decide to add new collateral types @Siddharth | DefiDollar is it just based off of governance?
 
 
@@ -112,7 +112,7 @@
 
 
 
- #### Siddharth | DefiDollar:
+#### Siddharth | DefiDollar:
 ##### but we are eager to hear from the community what other coins they would like to see as a part of the index and why 
 ##### another reason to slowly add is to make sure the system is stable, incidentally we started out with the sUSD pools on Curve, deprecated it and transitioned to the yPool
 
@@ -130,6 +130,6 @@
 ##### @Siddharth | DefiDollar may be a completely different token... ADFD where "A" is for algo?
 ￼
 
- #### Siddharth | DefiDollar:
+#### Siddharth | DefiDollar:
 ##### hahahah let's consider that when the time comes, but duly noted! ￼
 
