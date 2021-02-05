@@ -1,20 +1,19 @@
-
-#### magicturtle🍣:
-Siddharth if you could, would you be able to give a basic overview of DeFi Dollar and how it works behind the scenes?
+####  magicturtle🍣:
+##### Siddharth if you could, would you be able to give a basic overview of DeFi Dollar and how it works behind the scenes?
 
 
 #### Siddharth | DefiDollar: 
-We have a dual token design: - The stablecoin index, pegged to $1 - DUSD
-- A governance token - DefiDollar DAO ($DFD)
-$DUSD is optimized for peg safety, yield and diversification. The basket approach diversifies the risk, by allowing more types of collateral 
-to be onboarded and allows integration with yield generating DeFi primitives. The inbuilt protocol mechanisms along with arbitrage helps keep 
-the peg close to $1
-Currently we are leveraging Curve(yPool) and the yVault from yearn. This is also where the protocol generates income for its users
+##### We have a dual token design: - The stablecoin index, pegged to $1 - DUSD
+##### - A governance token - DefiDollar DAO ($DFD)
+##### $DUSD is optimized for peg safety, yield and diversification. The basket approach diversifies the risk, by allowing more types of collateral 
+##### to be onboarded and allows integration with yield generating DeFi primitives. The inbuilt protocol mechanisms along with arbitrage helps keep 
+##### the peg close to $1
+##### Currently we are leveraging Curve(yPool) and the yVault from yearn. This is also where the protocol generates income for its users
 
-We are also doing a lot of experiments in the stablecoin ecosystem ￼
+##### We are also doing a lot of experiments in the stablecoin ecosystem ￼
 
 
- ####eltrinco92: 
+#### eltrinco92: 
 ##### Siddhart, will there be insurance covering defidollar?
 
  Siddharth | DefiDollar:we are thinking of a number of ways to secure the protocol! Insurance is definitely a part of it, and should be 
